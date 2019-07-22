@@ -1,5 +1,7 @@
 # Crypto Currency Market Analysis
-Shows a Crypto Currency Market Table and chart for data visualization, using react, various APIs, React w/ Redux, and Node.js
+Shows a Market Table and chart for data visualization.
+Utilized various APIs, React w/ Redux, and Node.js
+
 <h4> Paper currency exchange rate table </h4>
 <img src="imgs/paperCurrencyExchangeRate.png" width = "33%">
 
