@@ -1,4 +1,6 @@
 # Crypto Currency Market Analysis
+
+**utilizes react-boilterplate --> Hence the `license` and `contributing` files**
 Shows a Market Table and chart for data visualization.
 Utilized various APIs, React w/ Redux, and Node.js
 
