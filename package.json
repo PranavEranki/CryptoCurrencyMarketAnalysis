@@ -238,7 +238,7 @@
     "intl": "1.2.5",
     "invariant": "2.2.2",
     "ip": "1.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "minimist": "1.2.0",
     "moment": "^2.22.1",
     "node-currency-swap": "^1.0.6",
