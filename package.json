@@ -240,7 +240,7 @@
     "ip": "1.1.5",
     "lodash": "^4.17.15",
     "minimist": "1.2.0",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "node-currency-swap": "^1.0.6",
     "prop-types": "15.5.10",
     "react": "^16.3.2",
